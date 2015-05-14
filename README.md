@@ -4,12 +4,12 @@ just replace MongoLabUrl with your mongolab url
 just replace the port with your mongolab port
 
 
-***Edit the below lines:
+****Edit the below lines:
 
  [string[]]$MongoLabUrl = 'your mongolab url',
  
  [Int32[]]$Port = yourmongodbport,
  
 
-***if running windows 8 don't forget to right click>>properties>>unblock
+****if running windows 8 don't forget to right click>>properties>>unblock
 
