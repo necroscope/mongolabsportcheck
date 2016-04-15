@@ -13,3 +13,6 @@ just replace the port with your mongolab port
 
 ****if running windows 8 don't forget to right click>>properties>>unblock
 
+
+Author:  The Necroscope, Find me on github!
+
